@@ -6,30 +6,6 @@ I'm a learner in the Uplift Bootcamp, based in Jos.
 Before starting, I knew very little about programming - now I can
 write functions, work with array of objects and use Git to manage my code.
 
-## Goals
-
-cat > profile.md << 'EOF'
-# About the Author
-
-## Background
-
-I'm a learner in the Uplift Bootcamp, based in Jos.
-Before starting, I knew very little about programming - now I can
-write functions, work with array of objects and use Git to manage my code.
-
-## Skills (so far)
-
-
-
-cat > profile.md << 'EOF'
-# About the Author
-
-## Background
-
-I'm a learner in the Uplift Bootcamp, based in Jos.
-Before starting, I knew very little about programming - now I can
-write functions, work with array of objects and use Git to manage my code.
-
 ## Skills (so far)
  
 - HTML & CSS Basics
