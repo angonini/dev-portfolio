@@ -9,12 +9,12 @@ My current track is **Frontend**.
 
 ## Bootcamp Projects
 
-| Week | Projects | Description |
- ..... |..........|.............|
-|6 | BauchiUtils | A js- function | utility library |
-|7 | Student Records | An in-memory CRUID database |
-|8 | This portfolio | Set Up and configured this repo |
-|9 | Nairatrack     | An Expense tracker
+| Week |  Project | Description |
+|------|----------|-------------|
+| 6 | BauchiUtils | A 15-function utility library |
+| 7 | Student Records | An in-memory CRUD database |
+| 8 | This portfolio | Set Up and configured this repo |
+| 9 | Nairatrack     | An Expense tracker
 
 ## How to reach Me
 
