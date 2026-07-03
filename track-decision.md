@@ -1,6 +1,8 @@
-Track: FRONTEND
-Decuded: 3-7-2026
-Cohort: 2026
+---
+Track: [FRONTEND]
+Decided: 03-07-2026
+Cohort: [2026]
+---
 
 # Track Decision
 
