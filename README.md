@@ -7,6 +7,8 @@ beyond.
 I am based in Jos and learninig software engineering through the UpliftHub Bootcamp.
 My current track is **Frontend**.
 
+See [track-decision.md] (./track-decision.md)
+
 ## Bootcamp Projects
 
 | Week |  Project | Description |
